@@ -1,0 +1,37 @@
+@mixin menu-item
+  display: inline-block
+  width: 150px
+  height: 150px
+  text-align: center
+  position: relative
+  top: -40px
+  font-size: 20px
+
+.main-nav
+  height: 70px
+  overflow: hidden
+  position: relative
+  left: -20px
+
+.menu-item
+  @include menu-item
+
+.menu-item--active
+  @include menu-item
+  border-radius: 50%
+  background: #b2ebe0
+
+.menu-item__link
+  line-height: 140px
+
+.phone
+  margin: 5px 0
+
+.phone-text
+  text-align: right
+  font-size: 14px
+
+.phone-num
+  font-size: 28px
+  text-align: right
+

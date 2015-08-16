@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/gulp/tasks/scripts.js" />
+        <item url="file://$PROJECT_DIR$/gulpfile.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/partials.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/browserSync.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/sass.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/less.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/images.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/html.js" />
+        <item url="file://$PROJECT_DIR$/gulp/util/bundleLogger.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/watch.js" />
+        <item url="file://$PROJECT_DIR$/gulp/util/handleErrors.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/clean.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/gulp/tasks/scripts.js" />
+      <root url="file://$PROJECT_DIR$/app/js/main.js" />
+      <root url="file://$PROJECT_DIR$/gulp/tasks/less.js" />
+      <root url="file://$PROJECT_DIR$/gulp/tasks/html.js" />
+      <root url="file://$PROJECT_DIR$/gulp/util/bundleLogger.js" />
+      <root url="file://$PROJECT_DIR$/gulp/tasks/watch.js" />
+      <root url="file://$PROJECT_DIR$/gulp/util/handleErrors.js" />
+      <root url="file://$PROJECT_DIR$/gulp/tasks/clean.js" />
+      <root url="file://$PROJECT_DIR$/gulpfile.js" />
+      <root url="file://$PROJECT_DIR$/gulp/tasks/partials.js" />
+      <root url="file://$PROJECT_DIR$/gulp/tasks/browserSync.js" />
+      <root url="file://$PROJECT_DIR$/gulp/tasks/sass.js" />
+      <root url="file://$PROJECT_DIR$/gulp/tasks/images.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

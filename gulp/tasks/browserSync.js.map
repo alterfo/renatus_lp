@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "browserSync.js",
+  "sourceRoot": "",
+  "sources": [
+    "browserSync.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,IAAA,GAAO,OAAA,CAAQ,MAAR;;EACP,WAAA,GAAc,OAAA,CAAQ,cAAR;;EAEd,IAAI,CAAC,IAAL,CAAU,aAAV,EAAyB,SAAA;WACxB,WAAA,CACC;MAAA,IAAA,EAAM,IAAN;MACA,IAAA,EAAM,IADN;MAEA,MAAA,EACC;QAAA,OAAA,EAAS,CAAC,SAAD,EAAY,OAAZ,CAAT;OAHD;MAIA,KAAA,EAAO,CAAC,YAAD,CAJP;KADD;EADwB,CAAzB;AAHA"
+}

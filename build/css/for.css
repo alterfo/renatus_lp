@@ -1,0 +1,34 @@
+/* line 1, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+.bottom20 {
+  margin-bottom: 20px; }
+
+/* line 4, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+.top20 {
+  margin-top: 20px; }
+
+/* line 7, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+.top40 {
+  margin-top: 40px; }
+
+/* line 10, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+.vertical40 {
+  margin-top: 40px;
+  margin-bottom: 40px; }
+
+/* line 4, stdin */
+.for {
+  background-color: #2d6795; }
+
+/* line 7, stdin */
+.for__main-text {
+  text-transform: uppercase;
+  color: white;
+  font-weight: 100;
+  letter-spacing: 1.7px; }
+
+/* line 14, stdin */
+.for__text {
+  color: white;
+  font-weight: 100;
+  width: 70%;
+  margin: 20px auto; }

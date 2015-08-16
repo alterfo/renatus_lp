@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "handleErrors.js",
+  "sourceRoot": "",
+  "sources": [
+    "handleErrors.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;EAAA,MAAA,GAAS,OAAA,CAAQ,aAAR;;EAET,MAAM,CAAC,OAAP,GAAiB,SAAA;AACf,QAAA;IAAA,IAAA,GAAO,KAAK,CAAC,SAAS,CAAC,KAAK,CAAC,IAAtB,CAA2B,SAA3B;IAEP,MAAM,CAAC,OAAP,CAAe;MACb,KAAA,EAAO,eADM;MAEb,OAAA,EAAS,cAFI;KAAf,CAGE,CAAC,KAHH,CAGS,IAHT,EAGY,IAHZ;WAMA,IAAC,CAAA,IAAD,CAAM,KAAN;EATe;AAFjB"
+}

@@ -1,0 +1,46 @@
+/* line 10, stdin */
+.main-nav {
+  height: 70px;
+  overflow: hidden;
+  position: relative;
+  left: -20px; }
+
+/* line 16, stdin */
+.menu-item {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  position: relative;
+  top: -40px;
+  font-size: 20px; }
+
+/* line 19, stdin */
+.menu-item--active {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  position: relative;
+  top: -40px;
+  font-size: 20px;
+  border-radius: 50%;
+  background: #b2ebe0; }
+
+/* line 24, stdin */
+.menu-item__link {
+  line-height: 140px; }
+
+/* line 27, stdin */
+.phone {
+  margin: 5px 0; }
+
+/* line 30, stdin */
+.phone-text {
+  text-align: right;
+  font-size: 14px; }
+
+/* line 34, stdin */
+.phone-num {
+  font-size: 28px;
+  text-align: right; }
