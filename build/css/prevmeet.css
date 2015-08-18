@@ -20,4 +20,13 @@
 /* line 19, stdin */
 .btn-green {
   background: #41bca4;
-  border-radius: 10px; }
+  border-radius: 10px;
+  margin-top: 20px; }
+
+/* line 24, stdin */
+.orbit-container .orbit-prev, .orbit-container .orbit-next {
+  background-color: #0B3D65; }
+
+/* line 27, stdin */
+.orbit-container {
+  border: 1px solid #2d6795; }

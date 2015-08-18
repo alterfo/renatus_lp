@@ -7795,35 +7795,35 @@ th.hide-for-touch {
   .show-for-print {
     display: none !important; } }
 
-/* line 1, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 1, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
 .bottom20 {
   margin-bottom: 20px; }
 
-/* line 4, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 4, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
 .bottom40 {
   margin-bottom: 40px; }
 
-/* line 7, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 7, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
 .top20 {
   margin-top: 20px; }
 
-/* line 10, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 10, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
 .top40 {
   margin-top: 40px; }
 
-/* line 13, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 13, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
 .vertical40 {
   margin-top: 40px;
   margin-bottom: 40px; }
 
-/* line 10, /Users/oleg/Sites/stop-suffer/app/css/menu.sass */
+/* line 10, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
 .main-nav {
   height: 70px;
   overflow: hidden;
   position: relative;
   left: -20px; }
 
-/* line 16, /Users/oleg/Sites/stop-suffer/app/css/menu.sass */
+/* line 16, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
 .menu-item {
   display: inline-block;
   width: 150px;
@@ -7833,7 +7833,7 @@ th.hide-for-touch {
   top: -40px;
   font-size: 20px; }
 
-/* line 19, /Users/oleg/Sites/stop-suffer/app/css/menu.sass */
+/* line 19, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
 .menu-item--active {
   display: inline-block;
   width: 150px;
@@ -7845,45 +7845,45 @@ th.hide-for-touch {
   border-radius: 50%;
   background: #b2ebe0; }
 
-/* line 24, /Users/oleg/Sites/stop-suffer/app/css/menu.sass */
+/* line 24, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
 .menu-item__link {
   line-height: 140px; }
 
-/* line 27, /Users/oleg/Sites/stop-suffer/app/css/menu.sass */
+/* line 27, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
 .phone {
   margin: 5px 0; }
 
-/* line 30, /Users/oleg/Sites/stop-suffer/app/css/menu.sass */
+/* line 30, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
 .phone-text {
   text-align: right;
   font-size: 14px; }
 
-/* line 34, /Users/oleg/Sites/stop-suffer/app/css/menu.sass */
+/* line 34, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
 .phone-num {
   font-size: 28px;
   text-align: right; }
 
-/* line 8, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 8, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .right {
   height: 477px; }
 
-/* line 12, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 12, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .wall {
   background: #0b6ab4 url(../i/background50x50.gif) center center;
   background-size: contain;
   color: white; }
 
-/* line 17, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 17, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .wall-clock {
   float: left;
   margin-right: 10px;
   margin-top: 40px; }
 
-/* line 22, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 22, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .clock-text {
   margin-top: 35px; }
 
-/* line 25, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 25, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .wall-text1 {
   color: white;
   font-weight: 300;
@@ -7891,21 +7891,21 @@ th.hide-for-touch {
   font-size: 24px;
   margin-top: 10px; }
 
-/* line 30, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 30, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .wall-text2 {
   color: white;
   font-weight: 300;
   margin: 0;
   font-size: 14px; }
 
-/* line 34, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 34, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .wall-maintext {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 32px;
   color: white; }
 
-/* line 40, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 40, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .phonegreen {
   height: 70px;
   width: 300px;
@@ -7913,21 +7913,21 @@ th.hide-for-touch {
   background-color: #00BDA3;
   margin-bottom: 40px; }
 
-/* line 47, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 47, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .phonegreen-text {
   font-size: 14px;
   position: absolute;
   top: 7px;
   left: 77px; }
 
-/* line 53, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 53, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .phonegreen-num {
   font-size: 24px;
   position: absolute;
   top: 27px;
   left: 77px; }
 
-/* line 59, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 59, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .phonegreen:after {
   content: '';
   line-height: 0;
@@ -7942,46 +7942,46 @@ th.hide-for-touch {
   top: 0;
   right: -28px; }
 
-/* line 73, /Users/oleg/Sites/stop-suffer/app/css/wall.sass */
+/* line 73, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
 .wall-man {
   position: absolute;
   top: 71px;
   left: 50%; }
 
-/* line 1, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 1, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
 .bottom20 {
   margin-bottom: 20px; }
 
-/* line 4, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 4, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
 .bottom40 {
   margin-bottom: 40px; }
 
-/* line 7, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 7, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
 .top20 {
   margin-top: 20px; }
 
-/* line 10, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 10, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
 .top40 {
   margin-top: 40px; }
 
-/* line 13, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 13, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
 .vertical40 {
   margin-top: 40px;
   margin-bottom: 40px; }
 
-/* line 4, /Users/oleg/Sites/stop-suffer/app/css/form.sass */
+/* line 4, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
 .form1 {
   background-color: #0b3d65;
   color: white; }
 
-/* line 8, /Users/oleg/Sites/stop-suffer/app/css/form.sass */
+/* line 8, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
 .form-text {
   text-align: center;
   margin-top: 20px;
   color: #c3e3fb;
   font-weight: 300; }
 
-/* line 14, /Users/oleg/Sites/stop-suffer/app/css/form.sass */
+/* line 14, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
 #subscr-block-471 {
   width: 290px;
   margin: 0 auto;
@@ -7990,22 +7990,22 @@ th.hide-for-touch {
   -moz-border-radius: 4px;
   border-radius: 4px; }
 
-/* line 23, /Users/oleg/Sites/stop-suffer/app/css/form.sass */
+/* line 23, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
 .name-input-wrapper {
   margin: 0;
   padding: 0 6px; }
 
-/* line 27, /Users/oleg/Sites/stop-suffer/app/css/form.sass */
+/* line 27, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
 .email-input-wrapper {
   margin: 0;
   padding: 0 6px; }
 
-/* line 31, /Users/oleg/Sites/stop-suffer/app/css/form.sass */
+/* line 31, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
 .submit-input-wrapper {
   margin: 0;
   padding: 0 6px; }
 
-/* line 35, /Users/oleg/Sites/stop-suffer/app/css/form.sass */
+/* line 35, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
 .form1 input.submit-button {
   background-color: #41bca4;
   text-transform: uppercase;
@@ -8014,19 +8014,19 @@ th.hide-for-touch {
   border-radius: 6px;
   padding: 15px 50px; }
 
-/* line 43, /Users/oleg/Sites/stop-suffer/app/css/form.sass */
+/* line 43, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
 input.email-input {
   height: 50px;
   font-size: 18px;
   border-radius: 6px; }
 
-/* line 48, /Users/oleg/Sites/stop-suffer/app/css/form.sass */
+/* line 48, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
 input.name-input {
   height: 50px;
   font-size: 18px;
   border-radius: 6px; }
 
-/* line 53, /Users/oleg/Sites/stop-suffer/app/css/form.sass */
+/* line 53, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
 .form1 input.submit-button--red {
   background-color: #ef5859;
   text-transform: uppercase;
@@ -8035,25 +8035,25 @@ input.name-input {
   border-radius: 6px;
   padding: 15px 50px; }
 
-/* line 3, /Users/oleg/Sites/stop-suffer/app/css/for.sass */
+/* line 3, C:/Sites/invest_lp/invest_lp/app/css/for.sass */
 .for {
   background-color: #2d6795; }
 
-/* line 6, /Users/oleg/Sites/stop-suffer/app/css/for.sass */
+/* line 6, C:/Sites/invest_lp/invest_lp/app/css/for.sass */
 .for__main-text {
   text-transform: uppercase;
   color: white;
   font-weight: 100;
   letter-spacing: 1.7px; }
 
-/* line 13, /Users/oleg/Sites/stop-suffer/app/css/for.sass */
+/* line 13, C:/Sites/invest_lp/invest_lp/app/css/for.sass */
 .for__text {
   color: white;
   font-weight: 100;
   width: 70%;
   margin: 20px auto; }
 
-/* line 3, /Users/oleg/Sites/stop-suffer/app/css/what.sass */
+/* line 3, C:/Sites/invest_lp/invest_lp/app/css/what.sass */
 .what__maintext {
   text-transform: uppercase;
   color: #2d6795;
@@ -8062,11 +8062,11 @@ input.name-input {
   width: 90%;
   margin: 40px auto; }
 
-/* line 11, /Users/oleg/Sites/stop-suffer/app/css/what.sass */
+/* line 11, C:/Sites/invest_lp/invest_lp/app/css/what.sass */
 .what__maintext--red {
   color: #ef5859; }
 
-/* line 14, /Users/oleg/Sites/stop-suffer/app/css/what.sass */
+/* line 14, C:/Sites/invest_lp/invest_lp/app/css/what.sass */
 .what__circle {
   width: 200px;
   height: 200px;
@@ -8076,101 +8076,135 @@ input.name-input {
   padding: 20px;
   margin: 0 auto; }
 
-/* line 24, /Users/oleg/Sites/stop-suffer/app/css/what.sass */
+/* line 24, C:/Sites/invest_lp/invest_lp/app/css/what.sass */
 .what__circle--bold {
   font-weight: bold; }
 
-/* line 3, /Users/oleg/Sites/stop-suffer/app/css/meeting.sass */
+/* line 3, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
 .meeting {
   background: #0b6ab4; }
 
-/* line 6, /Users/oleg/Sites/stop-suffer/app/css/meeting.sass */
+/* line 6, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
 h2.meeting__maintext {
   color: white;
   margin-bottom: 0;
   font-weight: 100; }
 
-/* line 12, /Users/oleg/Sites/stop-suffer/app/css/meeting.sass */
+/* line 12, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
 .meeting__text {
   color: white;
   font-size: 24px; }
 
-/* line 16, /Users/oleg/Sites/stop-suffer/app/css/meeting.sass */
+/* line 16, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
 .meeting__left, .meeting__left h3 {
   color: white;
   font-weight: 200; }
 
-/* line 20, /Users/oleg/Sites/stop-suffer/app/css/meeting.sass */
+/* line 20, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
 h3.agenda__header {
   position: absolute;
   top: 30px;
   left: 50%;
   margin-left: -130px; }
 
-/* line 26, /Users/oleg/Sites/stop-suffer/app/css/meeting.sass */
+/* line 26, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
 .agenda__list {
   position: absolute;
   top: 80px;
   left: 50%;
   margin-left: -70px; }
 
-/* line 32, /Users/oleg/Sites/stop-suffer/app/css/meeting.sass */
+/* line 32, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
 .agenda__item {
   list-style-image: url(../i/check.png); }
 
-/* line 3, /Users/oleg/Sites/stop-suffer/app/css/prevmeet.sass */
+/* line 3, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
 .prevmeet__text {
   color: #2d6795; }
 
-/* line 6, /Users/oleg/Sites/stop-suffer/app/css/prevmeet.sass */
+/* line 6, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
 .prevmeet__maintext {
   text-transform: uppercase; }
 
-/* line 10, /Users/oleg/Sites/stop-suffer/app/css/prevmeet.sass */
+/* line 10, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
 .prevmeet__maintext,
 .prevmeet__submain {
   text-align: center;
   color: #2d6795; }
 
-/* line 15, /Users/oleg/Sites/stop-suffer/app/css/prevmeet.sass */
+/* line 15, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
 .prevmeet__head,
 .prevmeet__subhead {
   color: #2d6795; }
 
-/* line 19, /Users/oleg/Sites/stop-suffer/app/css/prevmeet.sass */
+/* line 19, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
 .btn-green {
   background: #41bca4;
-  border-radius: 10px; }
+  border-radius: 10px;
+  margin-top: 20px; }
 
-/* line 3, /Users/oleg/Sites/stop-suffer/app/css/results.sass */
+/* line 24, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
+.orbit-container .orbit-prev, .orbit-container .orbit-next {
+  background-color: #0B3D65; }
+
+/* line 27, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
+.orbit-container {
+  border: 1px solid #2d6795; }
+
+/* line 3, C:/Sites/invest_lp/invest_lp/app/css/results.sass */
 .results__maintext {
   text-align: center;
   font-size: 32px;
   color: #2d6795;
   text-transform: uppercase; }
 
-/* line 10, /Users/oleg/Sites/stop-suffer/app/css/results.sass */
+/* line 10, C:/Sites/invest_lp/invest_lp/app/css/results.sass */
 h3.results__submain {
   color: #2d6795;
   text-align: center; }
 
-/* line 14, /Users/oleg/Sites/stop-suffer/app/css/results.sass */
+/* line 14, C:/Sites/invest_lp/invest_lp/app/css/results.sass */
 .result__testimonials img {
   width: 100px;
   height: 100px;
   margin-right: 10px;
   border-radius: 50px; }
 
-/* line 20, /Users/oleg/Sites/stop-suffer/app/css/results.sass */
-.result__videoname {
+/* line 20, C:/Sites/invest_lp/invest_lp/app/css/results.sass */
+h4.result__videoname {
   color: #2d6795; }
 
-/* line 20, stdin */
+/* line 3, C:/Sites/invest_lp/invest_lp/app/css/map.sass */
+.map {
+  background-image: url(../i/map.png);
+  height: 600px;
+  background-size: cover; }
+
+/* line 8, C:/Sites/invest_lp/invest_lp/app/css/map.sass */
+.map__address {
+  background: rgba(250, 250, 250, 0.7);
+  height: 280px;
+  margin-top: 50px;
+  color: #2d6795;
+  padding: 20px; }
+
+/* line 15, C:/Sites/invest_lp/invest_lp/app/css/map.sass */
+.map__address-head {
+  color: #2d6795;
+  text-transform: uppercase; }
+
+/* line 3, C:/Sites/invest_lp/invest_lp/app/css/footer.sass */
+.footer {
+  background-color: #2d6795;
+  color: white;
+  height: 200px; }
+
+/* line 22, stdin */
 .row {
   margin: 0 auto;
   max-width: 62.5rem; }
 
-/* line 24, stdin */
+/* line 26, stdin */
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   color: #2d6795; }

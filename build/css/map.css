@@ -1,0 +1,18 @@
+/* line 3, stdin */
+.map {
+  background-image: url(../i/map.png);
+  height: 600px;
+  background-size: cover; }
+
+/* line 8, stdin */
+.map__address {
+  background: rgba(250, 250, 250, 0.7);
+  height: 280px;
+  margin-top: 50px;
+  color: #2d6795;
+  padding: 20px; }
+
+/* line 15, stdin */
+.map__address-head {
+  color: #2d6795;
+  text-transform: uppercase; }
