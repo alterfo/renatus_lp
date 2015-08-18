@@ -17,7 +17,10 @@
   handleErrors = require('../util/handleErrors');
 
   dependencies = {
-    lodash: './node_modules/lodash'
+    lodash: './node_modules/lodash',
+    jquery: './node_modules/jquery',
+    foundation: './node_modules/foundation-sites',
+    foundationorbit: './node_modules/foundation-sites/js/foundation/foundation.orbit'
   };
 
   gulp.task('scripts', function() {

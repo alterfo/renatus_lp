@@ -1,21 +1,4 @@
-/* line 1, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
-.bottom20 {
-  margin-bottom: 20px; }
-
-/* line 4, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
-.top20 {
-  margin-top: 20px; }
-
-/* line 7, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
-.top40 {
-  margin-top: 40px; }
-
-/* line 10, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
-.vertical40 {
-  margin-top: 40px;
-  margin-bottom: 40px; }
-
-/* line 4, stdin */
+/* line 3, stdin */
 .what__maintext {
   text-transform: uppercase;
   color: #2d6795;
@@ -24,11 +7,11 @@
   width: 90%;
   margin: 40px auto; }
 
-/* line 12, stdin */
+/* line 11, stdin */
 .what__maintext--red {
   color: #ef5859; }
 
-/* line 15, stdin */
+/* line 14, stdin */
 .what__circle {
   width: 200px;
   height: 200px;
@@ -38,6 +21,6 @@
   padding: 20px;
   margin: 0 auto; }
 
-/* line 25, stdin */
+/* line 24, stdin */
 .what__circle--bold {
   font-weight: bold; }

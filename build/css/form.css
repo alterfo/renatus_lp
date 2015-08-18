@@ -3,14 +3,18 @@
   margin-bottom: 20px; }
 
 /* line 4, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+.bottom40 {
+  margin-bottom: 40px; }
+
+/* line 7, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
 .top20 {
   margin-top: 20px; }
 
-/* line 7, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 10, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
 .top40 {
   margin-top: 40px; }
 
-/* line 10, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
+/* line 13, /Users/oleg/Sites/stop-suffer/app/css/margins.sass */
 .vertical40 {
   margin-top: 40px;
   margin-bottom: 40px; }
@@ -71,3 +75,12 @@ input.name-input {
   height: 50px;
   font-size: 18px;
   border-radius: 6px; }
+
+/* line 53, stdin */
+.form1 input.submit-button--red {
+  background-color: #ef5859;
+  text-transform: uppercase;
+  font-weight: 100;
+  letter-spacing: 1.5px;
+  border-radius: 6px;
+  padding: 15px 50px; }

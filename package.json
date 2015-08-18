@@ -12,6 +12,7 @@
     "bower": "^1.4.1",
     "browser-sync": "^2.8.2",
     "browserify": "^11.0.1",
+    "browserify-shim": "^3.8.10",
     "del": "^1.2.1",
     "deprecated": "0.0.1",
     "gulp": "^3.9.0",
@@ -28,5 +29,19 @@
     "run-sequence": "^1.1.2",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.3.1"
+  },
+  "browser": {
+    "jquery": "./node_modules/jquery/dist/jquery.min.js",
+    "foundation": "./node_modules/foundation-sites/js/foundation.js",
+    "foundationorbit": "./node_modules/foundation-sites/js/foundation.orbit.js"
+  },
+  "browserify-shim": {
+    "jquery": "jquery:jQuery",
+    "foundation": "foundation"
+  },
+  "browserify": {
+    "transform": [
+      ["browserify-shim"]
+    ]
   }
 }

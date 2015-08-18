@@ -3,32 +3,41 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/gulp/tasks/scripts.js" />
-        <item url="file://$PROJECT_DIR$/gulpfile.js" />
-        <item url="file://$PROJECT_DIR$/gulp/tasks/partials.js" />
-        <item url="file://$PROJECT_DIR$/gulp/tasks/browserSync.js" />
-        <item url="file://$PROJECT_DIR$/gulp/tasks/sass.js" />
+        <item url="file://$PROJECT_DIR$/app/js/main.js" />
         <item url="file://$PROJECT_DIR$/gulp/tasks/less.js" />
-        <item url="file://$PROJECT_DIR$/gulp/tasks/images.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify-shim/node_modules/rename-function-calls/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/code.js" />
         <item url="file://$PROJECT_DIR$/gulp/tasks/html.js" />
         <item url="file://$PROJECT_DIR$/gulp/util/bundleLogger.js" />
         <item url="file://$PROJECT_DIR$/gulp/tasks/watch.js" />
         <item url="file://$PROJECT_DIR$/gulp/util/handleErrors.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify-shim/node_modules/rename-function-calls/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/keyword.js" />
         <item url="file://$PROJECT_DIR$/gulp/tasks/clean.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify-shim/node_modules/resolve/test/resolver/cup.js" />
+        <item url="file://$PROJECT_DIR$/gulpfile.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/partials.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/browserSync.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/sass.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browserify-shim/node_modules/resolve/test/resolver/mug.js" />
+        <item url="file://$PROJECT_DIR$/gulp/tasks/images.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/gulp/tasks/scripts.js" />
       <root url="file://$PROJECT_DIR$/app/js/main.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify-shim/node_modules/rename-function-calls/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/code.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/less.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/html.js" />
       <root url="file://$PROJECT_DIR$/gulp/util/bundleLogger.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/watch.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify-shim/node_modules/rename-function-calls/node_modules/detective/node_modules/escodegen/node_modules/esutils/test/keyword.js" />
       <root url="file://$PROJECT_DIR$/gulp/util/handleErrors.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify-shim/node_modules/resolve/test/resolver/cup.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/clean.js" />
       <root url="file://$PROJECT_DIR$/gulpfile.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/partials.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/browserSync.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/sass.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browserify-shim/node_modules/resolve/test/resolver/mug.js" />
       <root url="file://$PROJECT_DIR$/gulp/tasks/images.js" />
     </CLASSES>
     <SOURCES />
