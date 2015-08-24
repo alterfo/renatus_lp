@@ -1,0 +1,18 @@
+/* line 1, stdin */
+.cry {
+  background: url(../i/cry.jpg) no-repeat center center;
+  height: 260px;
+  position: relative;
+  top: -45px; }
+
+/* line 7, stdin */
+.cry__head {
+  font-size: 1.5em;
+  color: white;
+  padding-top: 50px;
+  line-height: 28px; }
+
+/* line 13, stdin */
+.cry__text {
+  font-size: 18px;
+  color: #aaa; }

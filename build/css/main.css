@@ -7795,392 +7795,429 @@ th.hide-for-touch {
   .show-for-print {
     display: none !important; } }
 
-/* line 1, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
+/* line 1, /Users/oleg/Sites/renatus/app/css/margins.sass */
 .bottom20 {
   margin-bottom: 20px; }
 
-/* line 4, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
+/* line 4, /Users/oleg/Sites/renatus/app/css/margins.sass */
 .bottom40 {
   margin-bottom: 40px; }
 
-/* line 7, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
+/* line 7, /Users/oleg/Sites/renatus/app/css/margins.sass */
 .top20 {
   margin-top: 20px; }
 
-/* line 10, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
+/* line 10, /Users/oleg/Sites/renatus/app/css/margins.sass */
 .top40 {
   margin-top: 40px; }
 
-/* line 13, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
+/* line 13, /Users/oleg/Sites/renatus/app/css/margins.sass */
 .vertical40 {
   margin-top: 40px;
   margin-bottom: 40px; }
 
-/* line 10, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
+/* line 11, /Users/oleg/Sites/renatus/app/css/menu.sass */
 .main-nav {
   height: 70px;
   overflow: hidden;
   position: relative;
-  left: -20px; }
+  background: #071A1D; }
 
-/* line 16, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
+/* line 17, /Users/oleg/Sites/renatus/app/css/menu.sass */
+.logo {
+  margin: 15px 0; }
+
+/* line 20, /Users/oleg/Sites/renatus/app/css/menu.sass */
+.menu-item__link {
+  color: #fff; }
+
+/* line 23, /Users/oleg/Sites/renatus/app/css/menu.sass */
 .menu-item {
   display: inline-block;
-  width: 150px;
-  height: 150px;
+  margin: 0 13px;
+  height: 70px;
   text-align: center;
   position: relative;
-  top: -40px;
-  font-size: 20px; }
+  top: -37px;
+  font-size: 14px;
+  color: #fff; }
 
-/* line 19, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
-.menu-item--active {
-  display: inline-block;
-  width: 150px;
-  height: 150px;
-  text-align: center;
-  position: relative;
-  top: -40px;
-  font-size: 20px;
-  border-radius: 50%;
-  background: #b2ebe0; }
-
-/* line 24, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
+/* line 26, /Users/oleg/Sites/renatus/app/css/menu.sass */
 .menu-item__link {
   line-height: 140px; }
 
-/* line 27, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
+/* line 29, /Users/oleg/Sites/renatus/app/css/menu.sass */
 .phone {
   margin: 5px 0; }
 
-/* line 30, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
+/* line 32, /Users/oleg/Sites/renatus/app/css/menu.sass */
 .phone-text {
   text-align: right;
-  font-size: 14px; }
-
-/* line 34, C:/Sites/invest_lp/invest_lp/app/css/menu.sass */
-.phone-num {
-  font-size: 28px;
-  text-align: right; }
-
-/* line 8, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.right {
-  height: 477px; }
-
-/* line 12, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.wall {
-  background: #0b6ab4 url(../i/background50x50.gif) center center;
-  background-size: contain;
-  color: white; }
-
-/* line 17, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.wall-clock {
-  float: left;
-  margin-right: 10px;
-  margin-top: 40px; }
-
-/* line 22, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.clock-text {
-  margin-top: 35px; }
-
-/* line 25, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.wall-text1 {
-  color: white;
-  font-weight: 300;
-  margin: 0;
-  font-size: 24px;
-  margin-top: 10px; }
-
-/* line 30, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.wall-text2 {
-  color: white;
-  font-weight: 300;
-  margin: 0;
-  font-size: 14px; }
-
-/* line 34, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.wall-maintext {
-  text-transform: uppercase;
-  font-weight: 700;
-  font-size: 32px;
-  color: white; }
-
-/* line 40, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.phonegreen {
-  height: 70px;
-  width: 300px;
-  position: relative;
-  background-color: #00BDA3;
-  margin-bottom: 40px; }
-
-/* line 47, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.phonegreen-text {
   font-size: 14px;
-  position: absolute;
-  top: 7px;
-  left: 77px; }
+  color: orange;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  position: relative;
+  top: -10px; }
 
-/* line 53, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.phonegreen-num {
-  font-size: 24px;
-  position: absolute;
-  top: 27px;
-  left: 77px; }
+/* line 41, /Users/oleg/Sites/renatus/app/css/menu.sass */
+.phone-num {
+  font-size: 23px;
+  text-align: right;
+  color: #ccc; }
 
-/* line 59, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.phonegreen:after {
-  content: '';
-  line-height: 0;
-  font-size: 0;
+/* line 3, /Users/oleg/Sites/renatus/app/css/wall.sass */
+.wall {
+  background-image: url(../i/wall.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 797px;
+  text-align: center; }
+
+/* line 13, /Users/oleg/Sites/renatus/app/css/wall.sass */
+.wall__head {
+  text-transform: uppercase;
+  color: #ffcb04;
+  text-align: center;
+  font-size: 3.7em;
+  margin-top: -13px;
+  padding: 0; }
+
+/* line 22, /Users/oleg/Sites/renatus/app/css/wall.sass */
+.wall__subhead {
+  text-transform: uppercase;
+  color: #ccc;
+  text-align: center;
+  font-size: 1.9em;
+  margin-top: -40px;
+  padding: 0; }
+
+/* line 30, /Users/oleg/Sites/renatus/app/css/wall.sass */
+.wall__text {
+  color: #CCCCCC;
+  text-align: center;
+  font-size: 1.1em; }
+
+/* line 35, /Users/oleg/Sites/renatus/app/css/wall.sass */
+.xy-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
+/* line 1, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.questions__wrapper {
+  font-size: 1.1em;
+  position: relative;
+  top: -35px;
+  z-index: 3;
+  background: #fff;
+  max-width: 66.5rem;
+  margin: 0 auto;
+  box-shadow: 0 0 10px grey;
+  padding-top: 30px; }
+
+/* line 14, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.questions__sh {
+  font-weight: bold;
+  margin: 20px 0 15px 50px; }
+
+/* line 18, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.questions__st {
+  margin: 0 0 0 50px; }
+
+/* line 21, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.questions__head {
+  color: #999; }
+
+/* line 27, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.speech--left:before {
+  content: ' ';
+  position: absolute;
   width: 0;
   height: 0;
-  border-top: 22px solid transparent;
-  border-bottom: 50px solid #00BDA3;
-  border-left: 8px solid #00BDA3;
-  border-right: 20px solid transparent;
-  position: absolute;
-  top: 0;
-  right: -28px; }
+  left: 30px;
+  top: 100px;
+  border: 13px solid;
+  border-color: #666   #666 transparent transparent; }
 
-/* line 73, C:/Sites/invest_lp/invest_lp/app/css/wall.sass */
-.wall-man {
+/* line 37, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.speech--left:after {
+  content: ' ';
   position: absolute;
-  top: 71px;
-  left: 50%; }
+  width: 0;
+  height: 0;
+  left: 31px;
+  top: 97px;
+  border: 11px solid;
+  border-color: #fff #fff transparent transparent; }
 
-/* line 1, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
-.bottom20 {
+/* line 51, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.speech--right:before {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  right: 30px;
+  top: 100px;
+  border: 13px solid;
+  border-color: #666    transparent transparent #666; }
+
+/* line 61, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.speech--right:after {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  right: 31px;
+  top: 97px;
+  border: 11px solid;
+  border-color: #fff  transparent transparent #fff; }
+
+/* line 73, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.speech {
+  position: relative;
+  display: inline-block;
+  padding: 20px;
+  height: 100px;
+  text-align: center;
+  background-color: #fff;
+  border: 2px solid #666;
+  border-radius: 30px;
+  box-shadow: 2px 2px 4px #888;
+  margin: 30px;
+  font-size: 1.2em; }
+
+/* line 86, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.q1 {
+  margin-left: 50px; }
+
+/* line 89, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.q2 {
+  position: relative;
+  top: 50px;
+  border-color: aquamarine; }
+
+/* line 94, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.q5 {
+  position: relative;
+  top: 40px; }
+
+/* line 98, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.q7 {
+  position: relative;
+  top: 50px;
+  border-color: aquamarine; }
+
+/* line 103, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.q8 {
+  position: relative;
+  left: -20px;
+  margin: 0; }
+
+/* line 108, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.q9 {
+  border-color: aquamarine; }
+
+/* line 111, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.q10 {
+  position: relative;
+  top: 40px;
+  left: 50px;
+  margin: 30px; }
+
+/* line 117, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.q11 {
+  position: relative;
+  left: 10%;
+  margin: 30px; }
+
+/* line 122, /Users/oleg/Sites/renatus/app/css/questions.sass */
+.speech__footer {
+  color: #999;
+  margin-top: 40px;
+  padding-bottom: 40px; }
+
+/* line 1, /Users/oleg/Sites/renatus/app/css/cry.sass */
+.cry {
+  background: url(../i/cry.jpg) no-repeat center center;
+  height: 260px;
+  position: relative;
+  top: -45px; }
+
+/* line 7, /Users/oleg/Sites/renatus/app/css/cry.sass */
+.cry__head {
+  font-size: 1.5em;
+  color: white;
+  padding-top: 50px;
+  line-height: 28px; }
+
+/* line 13, /Users/oleg/Sites/renatus/app/css/cry.sass */
+.cry__text {
+  font-size: 18px;
+  color: #aaa; }
+
+/* line 1, /Users/oleg/Sites/renatus/app/css/inside.sass */
+.inside__head {
+  color: #CCCCCC;
+  font-size: 2.5em;
   margin-bottom: 20px; }
 
-/* line 4, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
-.bottom40 {
-  margin-bottom: 40px; }
+/* line 6, /Users/oleg/Sites/renatus/app/css/inside.sass */
+.inside__text1 {
+  line-height: 1.5;
+  margin-bottom: 44px;
+  width: 80%; }
 
-/* line 7, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
-.top20 {
-  margin-top: 20px; }
+/* line 12, /Users/oleg/Sites/renatus/app/css/inside.sass */
+.green__text {
+  font-size: 32px;
+  color: #729599;
+  line-height: 1; }
 
-/* line 10, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
-.top40 {
-  margin-top: 40px; }
+/* line 17, /Users/oleg/Sites/renatus/app/css/inside.sass */
+.inside__right-block {
+  background: url(../i/inside_back.png) no-repeat center;
+  padding: 41px;
+  width: 635px;
+  position: relative;
+  left: -8em; }
 
-/* line 13, C:/Sites/invest_lp/invest_lp/app/css/margins.sass */
-.vertical40 {
-  margin-top: 40px;
-  margin-bottom: 40px; }
-
-/* line 4, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
-.form1 {
-  background-color: #0b3d65;
-  color: white; }
-
-/* line 8, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
-.form-text {
-  text-align: center;
-  margin-top: 20px;
-  color: #c3e3fb;
-  font-weight: 300; }
-
-/* line 14, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
-#subscr-block-471 {
-  width: 290px;
-  margin: 0 auto;
-  padding: 25px;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px; }
-
-/* line 23, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
-.name-input-wrapper {
-  margin: 0;
-  padding: 0 6px; }
-
-/* line 27, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
-.email-input-wrapper {
-  margin: 0;
-  padding: 0 6px; }
-
-/* line 31, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
-.submit-input-wrapper {
-  margin: 0;
-  padding: 0 6px; }
-
-/* line 35, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
-.form1 input.submit-button {
-  background-color: #41bca4;
-  text-transform: uppercase;
-  font-weight: 100;
-  letter-spacing: 1.5px;
-  border-radius: 6px;
-  padding: 15px 50px; }
-
-/* line 43, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
-input.email-input {
-  height: 50px;
-  font-size: 18px;
-  border-radius: 6px; }
-
-/* line 48, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
-input.name-input {
-  height: 50px;
-  font-size: 18px;
-  border-radius: 6px; }
-
-/* line 53, C:/Sites/invest_lp/invest_lp/app/css/form.sass */
-.form1 input.submit-button--red {
-  background-color: #ef5859;
-  text-transform: uppercase;
-  font-weight: 100;
-  letter-spacing: 1.5px;
-  border-radius: 6px;
-  padding: 15px 50px; }
-
-/* line 3, C:/Sites/invest_lp/invest_lp/app/css/for.sass */
-.for {
-  background-color: #2d6795; }
-
-/* line 6, C:/Sites/invest_lp/invest_lp/app/css/for.sass */
-.for__main-text {
-  text-transform: uppercase;
+/* line 24, /Users/oleg/Sites/renatus/app/css/inside.sass */
+.inside__head2 {
   color: white;
-  font-weight: 100;
-  letter-spacing: 1.7px; }
+  font-size: 1.8em;
+  margin-left: 2em; }
 
-/* line 13, C:/Sites/invest_lp/invest_lp/app/css/for.sass */
-.for__text {
-  color: white;
-  font-weight: 100;
-  width: 70%;
-  margin: 20px auto; }
+/* line 29, /Users/oleg/Sites/renatus/app/css/inside.sass */
+.inside__text2 {
+  line-height: 1.2;
+  font-size: 0.9em;
+  margin-left: 4em; }
 
-/* line 3, C:/Sites/invest_lp/invest_lp/app/css/what.sass */
-.what__maintext {
-  text-transform: uppercase;
-  color: #2d6795;
-  font-weight: bold;
-  font-size: 36px;
-  width: 90%;
-  margin: 40px auto; }
+/* line 34, /Users/oleg/Sites/renatus/app/css/inside.sass */
+.inside {
+  z-index: 10; }
 
-/* line 11, C:/Sites/invest_lp/invest_lp/app/css/what.sass */
-.what__maintext--red {
-  color: #ef5859; }
-
-/* line 14, C:/Sites/invest_lp/invest_lp/app/css/what.sass */
-.what__circle {
-  width: 200px;
-  height: 200px;
-  border-radius: 100px;
-  background-color: #d8f5ef;
+/* line 1, /Users/oleg/Sites/renatus/app/css/author.sass */
+.author__header {
+  color: black;
+  font-size: 2.3em;
   text-align: center;
-  padding: 20px;
-  margin: 0 auto; }
+  margin-top: 1em; }
 
-/* line 24, C:/Sites/invest_lp/invest_lp/app/css/what.sass */
-.what__circle--bold {
-  font-weight: bold; }
+/* line 7, /Users/oleg/Sites/renatus/app/css/author.sass */
+.author {
+  background: url(../i/author_back.jpg);
+  margin-top: 3em; }
 
-/* line 3, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
+/* line 11, /Users/oleg/Sites/renatus/app/css/author.sass */
+.author_sub {
+  font-size: 1em; }
+
+/* line 3, /Users/oleg/Sites/renatus/app/css/meeting.sass */
 .meeting {
   background: #0b6ab4; }
 
-/* line 6, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
+/* line 6, /Users/oleg/Sites/renatus/app/css/meeting.sass */
 h2.meeting__maintext {
   color: white;
   margin-bottom: 0;
   font-weight: 100; }
 
-/* line 12, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
+/* line 12, /Users/oleg/Sites/renatus/app/css/meeting.sass */
 .meeting__text {
   color: white;
   font-size: 24px; }
 
-/* line 16, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
+/* line 16, /Users/oleg/Sites/renatus/app/css/meeting.sass */
 .meeting__left, .meeting__left h3 {
   color: white;
   font-weight: 200; }
 
-/* line 20, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
+/* line 20, /Users/oleg/Sites/renatus/app/css/meeting.sass */
 h3.agenda__header {
   position: absolute;
   top: 30px;
   left: 50%;
   margin-left: -130px; }
 
-/* line 26, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
+/* line 26, /Users/oleg/Sites/renatus/app/css/meeting.sass */
 .agenda__list {
   position: absolute;
   top: 80px;
   left: 50%;
   margin-left: -70px; }
 
-/* line 32, C:/Sites/invest_lp/invest_lp/app/css/meeting.sass */
+/* line 32, /Users/oleg/Sites/renatus/app/css/meeting.sass */
 .agenda__item {
   list-style-image: url(../i/check.png); }
 
-/* line 3, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
+/* line 3, /Users/oleg/Sites/renatus/app/css/prevmeet.sass */
 .prevmeet__text {
   color: #2d6795; }
 
-/* line 6, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
+/* line 6, /Users/oleg/Sites/renatus/app/css/prevmeet.sass */
 .prevmeet__maintext {
   text-transform: uppercase; }
 
-/* line 10, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
+/* line 10, /Users/oleg/Sites/renatus/app/css/prevmeet.sass */
 .prevmeet__maintext,
 .prevmeet__submain {
   text-align: center;
   color: #2d6795; }
 
-/* line 15, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
+/* line 15, /Users/oleg/Sites/renatus/app/css/prevmeet.sass */
 .prevmeet__head,
 .prevmeet__subhead {
   color: #2d6795; }
 
-/* line 19, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
+/* line 19, /Users/oleg/Sites/renatus/app/css/prevmeet.sass */
 .btn-green {
   background: #41bca4;
   border-radius: 10px;
   margin-top: 20px; }
 
-/* line 24, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
+/* line 24, /Users/oleg/Sites/renatus/app/css/prevmeet.sass */
 .orbit-container .orbit-prev, .orbit-container .orbit-next {
   background-color: #0B3D65; }
 
-/* line 27, C:/Sites/invest_lp/invest_lp/app/css/prevmeet.sass */
+/* line 27, /Users/oleg/Sites/renatus/app/css/prevmeet.sass */
 .orbit-container {
   border: 1px solid #2d6795; }
 
-/* line 3, C:/Sites/invest_lp/invest_lp/app/css/results.sass */
+/* line 3, /Users/oleg/Sites/renatus/app/css/results.sass */
 .results__maintext {
   text-align: center;
   font-size: 32px;
   color: #2d6795;
   text-transform: uppercase; }
 
-/* line 10, C:/Sites/invest_lp/invest_lp/app/css/results.sass */
+/* line 10, /Users/oleg/Sites/renatus/app/css/results.sass */
 h3.results__submain {
   color: #2d6795;
   text-align: center; }
 
-/* line 14, C:/Sites/invest_lp/invest_lp/app/css/results.sass */
+/* line 14, /Users/oleg/Sites/renatus/app/css/results.sass */
 .result__testimonials img {
   width: 100px;
   height: 100px;
   margin-right: 10px;
   border-radius: 50px; }
 
-/* line 20, C:/Sites/invest_lp/invest_lp/app/css/results.sass */
+/* line 20, /Users/oleg/Sites/renatus/app/css/results.sass */
 h4.result__videoname {
   color: #2d6795; }
 
-/* line 3, C:/Sites/invest_lp/invest_lp/app/css/map.sass */
+/* line 3, /Users/oleg/Sites/renatus/app/css/map.sass */
 .map {
   background-image: url(../i/map.png);
   height: 600px;
   background-size: cover; }
 
-/* line 8, C:/Sites/invest_lp/invest_lp/app/css/map.sass */
+/* line 8, /Users/oleg/Sites/renatus/app/css/map.sass */
 .map__address {
   background: rgba(250, 250, 250, 0.7);
   height: 280px;
@@ -8188,23 +8225,23 @@ h4.result__videoname {
   color: #2d6795;
   padding: 20px; }
 
-/* line 15, C:/Sites/invest_lp/invest_lp/app/css/map.sass */
+/* line 15, /Users/oleg/Sites/renatus/app/css/map.sass */
 .map__address-head {
   color: #2d6795;
   text-transform: uppercase; }
 
-/* line 3, C:/Sites/invest_lp/invest_lp/app/css/footer.sass */
+/* line 3, /Users/oleg/Sites/renatus/app/css/footer.sass */
 .footer {
   background-color: #2d6795;
   color: white;
   height: 200px; }
 
-/* line 22, stdin */
+/* line 23, stdin */
 .row {
   margin: 0 auto;
-  max-width: 62.5rem; }
+  max-width: 68.5rem; }
 
-/* line 26, stdin */
+/* line 27, stdin */
 body {
   font-family: 'Open Sans', Arial, sans-serif;
-  color: #2d6795; }
+  color: #999; }

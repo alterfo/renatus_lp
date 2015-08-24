@@ -9,7 +9,7 @@
   reload = browserSync.reload;
 
   gulp.task('images', function() {
-    return gulp.src('./app/i/*.png').pipe(gulp.dest('./build/i')).pipe(reload({
+    return gulp.src('./app/i/*.{jpg,png,gif}').pipe(gulp.dest('./build/i')).pipe(reload({
       stream: true
     }));
   });

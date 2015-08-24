@@ -9,7 +9,7 @@
   reload = browserSync.reload;
 
   gulp.task('html', function() {
-    return gulp.src('./app/html/*.html').pipe(gulp.dest('./build')).pipe(reload({
+    return gulp.src('./app/html/index.html').pipe(gulp.dest('./build')).pipe(reload({
       stream: true
     }));
   });

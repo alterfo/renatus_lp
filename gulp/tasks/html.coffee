@@ -3,7 +3,7 @@ browserSync = require 'browser-sync'
 reload = browserSync.reload
 
 gulp.task 'html', ->
-	gulp.src './app/html/*.html'
+	gulp.src './app/html/index.html'
 		.pipe gulp.dest('./build')
 		.pipe reload({ stream: true })
 		
