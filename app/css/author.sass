@@ -8,5 +8,35 @@
   background: url(../i/author_back.jpg)
   margin-top: 3em
 
-.author_sub
-  font-size: 1em
+.author__sub
+  font-size: 1.5em
+  position: relative
+  top: -10px
+
+.author__speech-balloon
+  border-radius: 20px
+  padding: 23px 40px 10px 30px
+  padding-right: 40px
+  background: aqua
+  margin: 30px
+  position: relative
+  left: -50px
+  color: #666
+
+  
+.author__speech-balloon:after 
+  top: 30px
+  left: -20px
+  content: ""
+  position: absolute
+  bottom: auto
+  border-width: 0 0 20px 20px
+  border-style: solid
+  border-color: aqua transparent
+  display: block
+  width: 0
+
+
+.author__speech-balloon__head
+  font-size: 24px
+

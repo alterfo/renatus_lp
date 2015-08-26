@@ -20,7 +20,7 @@
     lodash: './node_modules/lodash',
     jquery: './node_modules/jquery',
     foundation: './node_modules/foundation-sites',
-    foundationorbit: './node_modules/foundation-sites/js/foundation/foundation.orbit'
+    bxslider: './app/js/jquery.bxslider.min.js'
   };
 
   gulp.task('scripts', function() {

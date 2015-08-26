@@ -6,9 +6,10 @@
   background-position: center;
   width: 100%;
   height: 797px;
-  text-align: center; }
+  text-align: center;
+  position: relative; }
 
-/* line 13, stdin */
+/* line 14, stdin */
 .wall__head {
   text-transform: uppercase;
   color: #ffcb04;
@@ -17,7 +18,7 @@
   margin-top: -13px;
   padding: 0; }
 
-/* line 22, stdin */
+/* line 23, stdin */
 .wall__subhead {
   text-transform: uppercase;
   color: #ccc;
@@ -26,15 +27,15 @@
   margin-top: -40px;
   padding: 0; }
 
-/* line 30, stdin */
+/* line 31, stdin */
 .wall__text {
   color: #CCCCCC;
   text-align: center;
   font-size: 1.1em; }
 
-/* line 35, stdin */
+/* line 36, stdin */
 .xy-center {
   position: absolute;
-  top: 50%;
+  top: 67%;
   left: 50%;
   transform: translate(-50%, -50%); }

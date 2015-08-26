@@ -1,0 +1,39 @@
+/* line 1, stdin */
+.program {
+  margin-top: 5em;
+  background-color: #f6f2e4;
+  font-size: 0.9em; }
+
+/* line 5, stdin */
+.program__footer {
+  padding-bottom: 30px; }
+
+/* line 9, stdin */
+.program__subh {
+  width: 70%;
+  margin: 0 auto; }
+
+/* line 13, stdin */
+.program_subh2 {
+  font-size: 1.6em;
+  margin-top: 30px;
+  margin-left: 20px; }
+
+/* line 18, stdin */
+.awards {
+  margin-left: 40px; }
+
+/* line 21, stdin */
+.program__text-head {
+  color: #17a3b8;
+  font-size: 1.3em;
+  font-weight: bold; }
+
+/* line 26, stdin */
+.program__text p {
+  font-size: 0.9em;
+  line-height: 1.5; }
+
+/* line 30, stdin */
+.program__text h3 {
+  font-size: 1.2em; }
