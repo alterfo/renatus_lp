@@ -1,23 +1,26 @@
 _ = require 'lodash'
 gulp = require 'gulp'
-browserify = require 'browserify'
+
+coffeeify = require 'coffeeify'
 watchify = require 'watchify'
 source = require 'vinyl-source-stream'
 bundleLogger = require '../util/bundleLogger'
 handleErrors = require '../util/handleErrors'
 
+browserify = require 'browserify'
+
+
 dependencies =
   lodash: './node_modules/lodash'
   jquery: './node_modules/jquery'
   foundation: './node_modules/foundation-sites'
-  bxslider: './app/js/jquery.bxslider.min.js'
 
 gulp.task 'scripts', ->
 	# client
 
 	clientBundler = browserify
 		cache: {}, packageCache: {}
-		entries: './app/js/main.coffee'
+		entries: './app/js/main.js'
 		extensions: ['.cjsx', '.coffee']
 
 	_.forEach dependencies, (path, dep) ->

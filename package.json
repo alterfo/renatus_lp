@@ -13,6 +13,7 @@
     "browser-sync": "^2.8.2",
     "browserify": "^11.0.1",
     "browserify-shim": "^3.8.10",
+    "coffeeify": "^1.1.0",
     "del": "^1.2.1",
     "deprecated": "0.0.1",
     "foundation-sites": "^5.5.2",
@@ -46,7 +47,8 @@
   "browserify": {
     "transform": [
       [
-        "browserify-shim"
+        "browserify-shim",
+        "coffeify"
       ]
     ]
   }
