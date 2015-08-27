@@ -5728,6 +5728,20 @@ meta.foundation-mq-topbar {
     font-size: 16px;
     height: 2.8125rem;
     margin: 0; }
+
+.name {
+    margin-top: 40px;
+    margin-left: 20px;
+    font-size: 1.2em;}
+
+.ava {
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 23px;
+    margin-right: 20px;
+    float: left;
+    display: inline-block;
+}    
     /* line 214, ./bower_components/foundation/scss/foundation/components/_top-bar.scss */
     .top-bar .name h1, .top-bar .name h2, .top-bar .name h3, .top-bar .name h4, .top-bar .name p, .top-bar .name span {
       font-size: 1.0625rem;
@@ -7796,43 +7810,43 @@ th.hide-for-touch {
   .show-for-print {
     display: none !important; } }
 
-/* line 1, /Users/oleg/Sites/renatus/app/css/margins.sass */
+/* line 1, C:/Sites/renatus_lp/app/css/margins.sass */
 .bottom20 {
   margin-bottom: 20px; }
 
-/* line 4, /Users/oleg/Sites/renatus/app/css/margins.sass */
+/* line 4, C:/Sites/renatus_lp/app/css/margins.sass */
 .bottom40 {
   margin-bottom: 40px; }
 
-/* line 7, /Users/oleg/Sites/renatus/app/css/margins.sass */
+/* line 7, C:/Sites/renatus_lp/app/css/margins.sass */
 .top20 {
   margin-top: 20px; }
 
-/* line 10, /Users/oleg/Sites/renatus/app/css/margins.sass */
+/* line 10, C:/Sites/renatus_lp/app/css/margins.sass */
 .top40 {
   margin-top: 40px; }
 
-/* line 13, /Users/oleg/Sites/renatus/app/css/margins.sass */
+/* line 13, C:/Sites/renatus_lp/app/css/margins.sass */
 .vertical40 {
   margin-top: 40px;
   margin-bottom: 40px; }
 
-/* line 11, /Users/oleg/Sites/renatus/app/css/menu.sass */
+/* line 11, C:/Sites/renatus_lp/app/css/menu.sass */
 .main-nav {
   height: 70px;
   overflow: hidden;
   position: relative;
   background: #071A1D; }
 
-/* line 17, /Users/oleg/Sites/renatus/app/css/menu.sass */
+/* line 17, C:/Sites/renatus_lp/app/css/menu.sass */
 .logo {
   margin: 15px 0; }
 
-/* line 20, /Users/oleg/Sites/renatus/app/css/menu.sass */
+/* line 20, C:/Sites/renatus_lp/app/css/menu.sass */
 .menu-item__link {
   color: #fff; }
 
-/* line 23, /Users/oleg/Sites/renatus/app/css/menu.sass */
+/* line 23, C:/Sites/renatus_lp/app/css/menu.sass */
 .menu-item {
   display: inline-block;
   margin: 0 13px;
@@ -7843,15 +7857,15 @@ th.hide-for-touch {
   font-size: 14px;
   color: #fff; }
 
-/* line 26, /Users/oleg/Sites/renatus/app/css/menu.sass */
+/* line 26, C:/Sites/renatus_lp/app/css/menu.sass */
 .menu-item__link {
   line-height: 140px; }
 
-/* line 29, /Users/oleg/Sites/renatus/app/css/menu.sass */
+/* line 29, C:/Sites/renatus_lp/app/css/menu.sass */
 .phone {
   margin: 5px 0; }
 
-/* line 32, /Users/oleg/Sites/renatus/app/css/menu.sass */
+/* line 32, C:/Sites/renatus_lp/app/css/menu.sass */
 .phone-text {
   text-align: right;
   font-size: 14px;
@@ -7861,13 +7875,13 @@ th.hide-for-touch {
   position: relative;
   top: -10px; }
 
-/* line 41, /Users/oleg/Sites/renatus/app/css/menu.sass */
+/* line 41, C:/Sites/renatus_lp/app/css/menu.sass */
 .phone-num {
   font-size: 23px;
   text-align: right;
   color: #ccc; }
 
-/* line 3, /Users/oleg/Sites/renatus/app/css/wall.sass */
+/* line 3, C:/Sites/renatus_lp/app/css/wall.sass */
 .wall {
   background-image: url(../i/wall.jpg);
   background-repeat: no-repeat;
@@ -7878,7 +7892,7 @@ th.hide-for-touch {
   text-align: center;
   position: relative; }
 
-/* line 14, /Users/oleg/Sites/renatus/app/css/wall.sass */
+/* line 14, C:/Sites/renatus_lp/app/css/wall.sass */
 .wall__head {
   text-transform: uppercase;
   color: #ffcb04;
@@ -7887,7 +7901,7 @@ th.hide-for-touch {
   margin-top: -13px;
   padding: 0; }
 
-/* line 23, /Users/oleg/Sites/renatus/app/css/wall.sass */
+/* line 23, C:/Sites/renatus_lp/app/css/wall.sass */
 .wall__subhead {
   text-transform: uppercase;
   color: #ccc;
@@ -7896,20 +7910,20 @@ th.hide-for-touch {
   margin-top: -40px;
   padding: 0; }
 
-/* line 31, /Users/oleg/Sites/renatus/app/css/wall.sass */
+/* line 31, C:/Sites/renatus_lp/app/css/wall.sass */
 .wall__text {
   color: #CCCCCC;
   text-align: center;
   font-size: 1.1em; }
 
-/* line 36, /Users/oleg/Sites/renatus/app/css/wall.sass */
+/* line 36, C:/Sites/renatus_lp/app/css/wall.sass */
 .xy-center {
   position: absolute;
   top: 67%;
   left: 50%;
   transform: translate(-50%, -50%); }
 
-/* line 1, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 1, C:/Sites/renatus_lp/app/css/questions.sass */
 .questions__wrapper {
   font-size: 1.1em;
   position: relative;
@@ -7921,20 +7935,20 @@ th.hide-for-touch {
   box-shadow: 0 0 10px grey;
   padding-top: 30px; }
 
-/* line 14, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 14, C:/Sites/renatus_lp/app/css/questions.sass */
 .questions__sh {
   font-weight: bold;
   margin: 20px 0 15px 50px; }
 
-/* line 18, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 18, C:/Sites/renatus_lp/app/css/questions.sass */
 .questions__st {
   margin: 0 0 0 50px; }
 
-/* line 21, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 21, C:/Sites/renatus_lp/app/css/questions.sass */
 .questions__head {
   color: #999; }
 
-/* line 27, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 27, C:/Sites/renatus_lp/app/css/questions.sass */
 .speech--left:before {
   content: ' ';
   position: absolute;
@@ -7945,7 +7959,7 @@ th.hide-for-touch {
   border: 13px solid;
   border-color: #666   #666 transparent transparent; }
 
-/* line 37, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 37, C:/Sites/renatus_lp/app/css/questions.sass */
 .speech--left:after {
   content: ' ';
   position: absolute;
@@ -7956,7 +7970,7 @@ th.hide-for-touch {
   border: 11px solid;
   border-color: #fff #fff transparent transparent; }
 
-/* line 51, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 51, C:/Sites/renatus_lp/app/css/questions.sass */
 .speech--right:before {
   content: ' ';
   position: absolute;
@@ -7967,7 +7981,7 @@ th.hide-for-touch {
   border: 13px solid;
   border-color: #666    transparent transparent #666; }
 
-/* line 61, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 61, C:/Sites/renatus_lp/app/css/questions.sass */
 .speech--right:after {
   content: ' ';
   position: absolute;
@@ -7978,7 +7992,7 @@ th.hide-for-touch {
   border: 11px solid;
   border-color: #fff  transparent transparent #fff; }
 
-/* line 73, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 73, C:/Sites/renatus_lp/app/css/questions.sass */
 .speech {
   position: relative;
   display: inline-block;
@@ -7992,94 +8006,94 @@ th.hide-for-touch {
   margin: 30px;
   font-size: 1.2em; }
 
-/* line 86, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 86, C:/Sites/renatus_lp/app/css/questions.sass */
 .q1 {
   margin-left: 50px; }
 
-/* line 89, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 89, C:/Sites/renatus_lp/app/css/questions.sass */
 .q2 {
   position: relative;
   top: 50px;
   border-color: aquamarine; }
 
-/* line 94, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 94, C:/Sites/renatus_lp/app/css/questions.sass */
 .q5 {
   position: relative;
   top: 40px; }
 
-/* line 98, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 98, C:/Sites/renatus_lp/app/css/questions.sass */
 .q7 {
   position: relative;
   top: 50px;
   border-color: aquamarine; }
 
-/* line 103, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 103, C:/Sites/renatus_lp/app/css/questions.sass */
 .q8 {
   position: relative;
   left: -20px;
   margin: 0; }
 
-/* line 108, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 108, C:/Sites/renatus_lp/app/css/questions.sass */
 .q9 {
   border-color: aquamarine; }
 
-/* line 111, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 111, C:/Sites/renatus_lp/app/css/questions.sass */
 .q10 {
   position: relative;
   top: 40px;
   left: 50px;
   margin: 30px; }
 
-/* line 117, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 117, C:/Sites/renatus_lp/app/css/questions.sass */
 .q11 {
   position: relative;
   left: 10%;
   margin: 30px; }
 
-/* line 122, /Users/oleg/Sites/renatus/app/css/questions.sass */
+/* line 122, C:/Sites/renatus_lp/app/css/questions.sass */
 .speech__footer {
   color: #999;
   margin-top: 40px;
   padding-bottom: 40px; }
 
-/* line 1, /Users/oleg/Sites/renatus/app/css/cry.sass */
+/* line 1, C:/Sites/renatus_lp/app/css/cry.sass */
 .cry {
   background: url(../i/cry.jpg) no-repeat center center;
   height: 260px;
   position: relative;
   top: -45px; }
 
-/* line 7, /Users/oleg/Sites/renatus/app/css/cry.sass */
+/* line 7, C:/Sites/renatus_lp/app/css/cry.sass */
 .cry__head {
   font-size: 1.5em;
   color: white;
   padding-top: 50px;
   line-height: 28px; }
 
-/* line 13, /Users/oleg/Sites/renatus/app/css/cry.sass */
+/* line 13, C:/Sites/renatus_lp/app/css/cry.sass */
 .cry__text {
   font-size: 18px;
   color: #aaa; }
 
-/* line 1, /Users/oleg/Sites/renatus/app/css/inside.sass */
+/* line 1, C:/Sites/renatus_lp/app/css/inside.sass */
 .inside__head {
   color: #CCCCCC;
   font-size: 2.5em;
   margin-bottom: 20px; }
 
-/* line 6, /Users/oleg/Sites/renatus/app/css/inside.sass */
+/* line 6, C:/Sites/renatus_lp/app/css/inside.sass */
 .inside__text1 {
   line-height: 1.5;
   margin-bottom: 44px;
   width: 80%; }
 
-/* line 12, /Users/oleg/Sites/renatus/app/css/inside.sass */
+/* line 12, C:/Sites/renatus_lp/app/css/inside.sass */
 .green__text {
   font-size: 32px;
   color: #729599;
   line-height: 1; }
 
-/* line 17, /Users/oleg/Sites/renatus/app/css/inside.sass */
+/* line 17, C:/Sites/renatus_lp/app/css/inside.sass */
 .inside__right-block {
   background: url(../i/inside_back.png) no-repeat center;
   padding: 41px;
@@ -8087,41 +8101,41 @@ th.hide-for-touch {
   position: relative;
   left: -8em; }
 
-/* line 24, /Users/oleg/Sites/renatus/app/css/inside.sass */
+/* line 24, C:/Sites/renatus_lp/app/css/inside.sass */
 .inside__head2 {
   color: white;
   font-size: 1.8em;
   margin-left: 2em; }
 
-/* line 29, /Users/oleg/Sites/renatus/app/css/inside.sass */
+/* line 29, C:/Sites/renatus_lp/app/css/inside.sass */
 .inside__text2 {
   line-height: 1.2;
   font-size: 0.9em;
   margin-left: 4em; }
 
-/* line 34, /Users/oleg/Sites/renatus/app/css/inside.sass */
+/* line 34, C:/Sites/renatus_lp/app/css/inside.sass */
 .inside {
   z-index: 10; }
 
-/* line 1, /Users/oleg/Sites/renatus/app/css/author.sass */
+/* line 1, C:/Sites/renatus_lp/app/css/author.sass */
 .author__header {
   color: black;
   font-size: 2.3em;
   text-align: center;
   margin-top: 1em; }
 
-/* line 7, /Users/oleg/Sites/renatus/app/css/author.sass */
+/* line 7, C:/Sites/renatus_lp/app/css/author.sass */
 .author {
   background: url(../i/author_back.jpg);
   margin-top: 3em; }
 
-/* line 11, /Users/oleg/Sites/renatus/app/css/author.sass */
+/* line 11, C:/Sites/renatus_lp/app/css/author.sass */
 .author__sub {
   font-size: 1.5em;
   position: relative;
   top: -10px; }
 
-/* line 16, /Users/oleg/Sites/renatus/app/css/author.sass */
+/* line 16, C:/Sites/renatus_lp/app/css/author.sass */
 .author__speech-balloon {
   border-radius: 20px;
   padding: 23px 40px 10px 30px;
@@ -8132,7 +8146,7 @@ th.hide-for-touch {
   left: -50px;
   color: #666; }
 
-/* line 27, /Users/oleg/Sites/renatus/app/css/author.sass */
+/* line 27, C:/Sites/renatus_lp/app/css/author.sass */
 .author__speech-balloon:after {
   top: 30px;
   left: -20px;
@@ -8145,41 +8159,41 @@ th.hide-for-touch {
   display: block;
   width: 0; }
 
-/* line 40, /Users/oleg/Sites/renatus/app/css/author.sass */
+/* line 40, C:/Sites/renatus_lp/app/css/author.sass */
 .author__speech-balloon__head {
   font-size: 24px; }
 
-/* line 1, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 1, C:/Sites/renatus_lp/app/css/now.sass */
 .now {
   margin-top: 60px;
   color: #111; }
 
-/* line 6, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 6, C:/Sites/renatus_lp/app/css/now.sass */
 .now_h {
   margin-bottom: 30px; }
 
-/* line 9, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 9, C:/Sites/renatus_lp/app/css/now.sass */
 .now__block {
   margin-left: 40px;
   position: relative; }
 
-/* line 13, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 13, C:/Sites/renatus_lp/app/css/now.sass */
 .now__block__head {
   color: #17a3b8;
   font-size: 1.5em; }
 
-/* line 17, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 17, C:/Sites/renatus_lp/app/css/now.sass */
 .now__block__text {
   font-size: 0.9em;
   line-height: 1.3; }
 
-/* line 22, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 22, C:/Sites/renatus_lp/app/css/now.sass */
 .now__block__delimiter {
   background: url(../i/block_delimiter.png) no-repeat center;
   height: 3px;
   margin: 20px; }
 
-/* line 27, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 27, C:/Sites/renatus_lp/app/css/now.sass */
 .now__block__head:after {
   content: "";
   background: url(../i/ycheck.png) no-repeat center;
@@ -8190,23 +8204,23 @@ th.hide-for-touch {
   top: 10px;
   display: block; }
 
-/* line 37, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 37, C:/Sites/renatus_lp/app/css/now.sass */
 .now__block2__head {
   color: #17a3b8;
   font-size: 1.5em; }
 
-/* line 41, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 41, C:/Sites/renatus_lp/app/css/now.sass */
 .now__block2__list {
   margin: 20px 10px 90px 60px;
   font-size: 1.5em;
   line-height: 1.3; }
 
-/* line 47, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 47, C:/Sites/renatus_lp/app/css/now.sass */
 .now__block2__list-item {
   margin-top: 23px;
   position: relative; }
 
-/* line 51, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 51, C:/Sites/renatus_lp/app/css/now.sass */
 .now__block2__list-item:before {
   content: "";
   width: 12px;
@@ -8216,45 +8230,45 @@ th.hide-for-touch {
   left: -25px;
   top: 6px; }
 
-/* line 60, /Users/oleg/Sites/renatus/app/css/now.sass */
+/* line 60, C:/Sites/renatus_lp/app/css/now.sass */
 .now__block2__button {
   margin-left: 60px; }
 
-/* line 1, /Users/oleg/Sites/renatus/app/css/program.sass */
+/* line 1, C:/Sites/renatus_lp/app/css/program.sass */
 .program {
   margin-top: 3.2em;
   background-color: #f6f2e4;
   font-size: 0.9em; }
 
-/* line 6, /Users/oleg/Sites/renatus/app/css/program.sass */
+/* line 6, C:/Sites/renatus_lp/app/css/program.sass */
 .program__footer {
   padding-bottom: 100px; }
 
-/* line 10, /Users/oleg/Sites/renatus/app/css/program.sass */
+/* line 10, C:/Sites/renatus_lp/app/css/program.sass */
 .program__head {
   margin-top: 1.2em;
   margin-bottom: 0; }
 
-/* line 14, /Users/oleg/Sites/renatus/app/css/program.sass */
+/* line 14, C:/Sites/renatus_lp/app/css/program.sass */
 .program__subh {
   width: 70%;
   margin: 0 auto;
   font-size: 1.2em;
   line-height: 1.3; }
 
-/* line 20, /Users/oleg/Sites/renatus/app/css/program.sass */
+/* line 20, C:/Sites/renatus_lp/app/css/program.sass */
 .program_subh2 {
   font-size: 1.8em;
   margin-top: 1.8em;
   margin-left: 20px;
   color: #333; }
 
-/* line 26, /Users/oleg/Sites/renatus/app/css/program.sass */
+/* line 26, C:/Sites/renatus_lp/app/css/program.sass */
 .awards {
   margin-left: 3em;
   margin-top: 1em; }
 
-/* line 30, /Users/oleg/Sites/renatus/app/css/program.sass */
+/* line 30, C:/Sites/renatus_lp/app/css/program.sass */
 .program__text-head {
   color: #17a3b8;
   font-size: 1.8em;
@@ -8264,25 +8278,25 @@ th.hide-for-touch {
   margin-left: 12px;
   line-height: 1.3; }
 
-/* line 39, /Users/oleg/Sites/renatus/app/css/program.sass */
+/* line 39, C:/Sites/renatus_lp/app/css/program.sass */
 .program__text p {
   font-size: 0.9em;
   line-height: 1.5;
   margin-left: 12px; }
 
-/* line 44, /Users/oleg/Sites/renatus/app/css/program.sass */
+/* line 44, C:/Sites/renatus_lp/app/css/program.sass */
 .program__text h3 {
   font-size: 1.3em;
   margin: 0 0 0 12px; }
 
-/* line 1, /Users/oleg/Sites/renatus/app/css/warning.sass */
+/* line 1, C:/Sites/renatus_lp/app/css/warning.sass */
 .warning {
   width: 100%;
   background: url(../i/girlbg.png) no-repeat center;
   background-size: cover;
   position: relative; }
 
-/* line 7, /Users/oleg/Sites/renatus/app/css/warning.sass */
+/* line 7, C:/Sites/renatus_lp/app/css/warning.sass */
 .warning__overlay {
   background: #139ca8;
   opacity: 0.5;
@@ -8291,22 +8305,22 @@ th.hide-for-touch {
   top: 0px;
   left: 0px; }
 
-/* line 15, /Users/oleg/Sites/renatus/app/css/warning.sass */
+/* line 15, C:/Sites/renatus_lp/app/css/warning.sass */
 .warning__head {
   margin-top: 57px;
   font-size: 2.2em;
   color: #333333; }
 
-/* line 20, /Users/oleg/Sites/renatus/app/css/warning.sass */
+/* line 20, C:/Sites/renatus_lp/app/css/warning.sass */
 .pris {
   height: 315px; }
 
-/* line 23, /Users/oleg/Sites/renatus/app/css/warning.sass */
+/* line 23, C:/Sites/renatus_lp/app/css/warning.sass */
 .warning2 {
   background: #082c32;
   color: whitesmoke; }
 
-/* line 27, /Users/oleg/Sites/renatus/app/css/warning.sass */
+/* line 27, C:/Sites/renatus_lp/app/css/warning.sass */
 .warning2__head {
   color: whitesmoke;
   margin-top: 1.5em;
@@ -8314,54 +8328,54 @@ th.hide-for-touch {
   font-size: 1.6em;
   margin-bottom: 1.5em; }
 
-/* line 34, /Users/oleg/Sites/renatus/app/css/warning.sass */
+/* line 34, C:/Sites/renatus_lp/app/css/warning.sass */
 .warning2__listitem {
   margin: 0 0 1em 0;
   font-weight: bold;
   line-height: 1.3; }
 
-/* line 39, /Users/oleg/Sites/renatus/app/css/warning.sass */
+/* line 39, C:/Sites/renatus_lp/app/css/warning.sass */
 .acom {
   font-weight: normal;
   font-size: 0.9em; }
 
-/* line 43, /Users/oleg/Sites/renatus/app/css/warning.sass */
+/* line 43, C:/Sites/renatus_lp/app/css/warning.sass */
 .warning3 {
   background: #062329; }
 
-/* line 46, /Users/oleg/Sites/renatus/app/css/warning.sass */
+/* line 46, C:/Sites/renatus_lp/app/css/warning.sass */
 .warning2__footer {
   margin: 2em 1em;
   color: white;
   font-weight: bold;
   font-size: 1.1em; }
 
-/* line 2, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 2, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay1__head {
   color: #333333;
   font-size: 2.4em;
   margin-top: 40px; }
 
-/* line 7, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 7, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay1_text {
   width: 90%;
   margin: 0 auto; }
 
-/* line 11, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 11, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay2 {
   background: #d3e9ea;
   margin-top: 70px; }
 
-/* line 15, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 15, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay2__head {
   font-size: 2.4em;
   margin-top: 1em; }
 
-/* line 20, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 20, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay2__text {
   font-size: 1.2em; }
 
-/* line 24, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 24, C:/Sites/renatus_lp/app/css/pay.sass */
 .countdown li {
   list-style: none;
   width: 80px;
@@ -8372,35 +8386,35 @@ th.hide-for-touch {
   display: inline-block;
   margin: 0 1em; }
 
-/* line 34, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 34, C:/Sites/renatus_lp/app/css/pay.sass */
 ul.countdown {
   text-align: center;
   margin: 2em 0 3em 0; }
 
-/* line 38, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 38, C:/Sites/renatus_lp/app/css/pay.sass */
 .countdown span {
   margin-top: 10px;
   display: inline-block; }
 
-/* line 42, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 42, C:/Sites/renatus_lp/app/css/pay.sass */
 .robject {
   width: 1.5ex;
   height: 1.5ex; }
 
-/* line 46, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 46, C:/Sites/renatus_lp/app/css/pay.sass */
 span.adot {
   position: absolute;
   text-indent: -1000em; }
 
-/* line 50, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 50, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay3 {
   background: #072429; }
 
-/* line 53, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 53, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay3__prices {
   margin-top: 1em; }
 
-/* line 58, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 58, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay3__oldp {
   font-size: 3em;
   text-decoration: line-through;
@@ -8408,40 +8422,40 @@ span.adot {
   margin-right: 10px;
   font-weight: 100; }
 
-/* line 66, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 66, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay3__new {
   color: #14a0b0;
   font-size: 3em;
   font-weight: bold;
   margin-right: 10px; }
 
-/* line 72, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 72, C:/Sites/renatus_lp/app/css/pay.sass */
 .rub {
   font-size: 3em;
   color: #14a0b0; }
 
-/* line 76, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 76, C:/Sites/renatus_lp/app/css/pay.sass */
 .go {
   position: relative;
   top: -0.4em;
   left: 4em; }
 
-/* line 81, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 81, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay4__head {
   margin-top: 1em; }
 
-/* line 85, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 85, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay4__subh {
   position: relative;
   top: -2.5em;
   font-size: 1.3em; }
 
-/* line 90, /Users/oleg/Sites/renatus/app/css/pay.sass */
+/* line 90, C:/Sites/renatus_lp/app/css/pay.sass */
 .pay4__text {
   position: relative;
   top: -3em; }
 
-/* line 3, /Users/oleg/Sites/renatus/app/css/footer.sass */
+/* line 3, C:/Sites/renatus_lp/app/css/footer.sass */
 .footer {
   background-color: #2d6795;
   color: white;
@@ -8460,3 +8474,62 @@ body {
 /* line 33, stdin */
 section {
   z-index: 4; }
+
+.test__head--blue {
+    color: #078794;
+    
+}
+
+.tit {
+    font-size: 1.4em;
+}
+
+.test__text {
+    margin: 54px 17px 0 24px;
+    padding: 28px;
+    font-size: 0.9em;
+    line-height: 1.3;
+    border-radius: 20px;
+    border: 1px solid #333;
+    position: relative;
+    background: #fff;
+}
+
+.test__text:after {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: 31px;
+  top: -25px;
+  border: 14px solid;
+  border-color:   transparent #fff #fff transparent ; }
+
+.test__text:before {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: 30px;
+  top: -30px;
+  border: 15px solid;
+  border-color:     transparent #ccc #ccc transparent ; }
+
+
+.pay5__head {
+    color: #666;
+    margin-top: 40px;
+}
+
+.pay5 {
+    margin-top: 80px;
+}
+
+.guarant {
+    margin-top: 30px;
+}
+
+.guarant__head {
+    margin-top: 20px;
+    font-size: 24px;
+}
